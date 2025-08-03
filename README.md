@@ -6,7 +6,7 @@ Hi there! 👋 My name is Umar and I am a computer science student at Air Univer
 
 ## 👯 Connect with me
 <p>
-    <a href="https://www.linkedin.com/in/umar-muneeb-b98956250/" target="_blank">
+    <a href="https://www.linkedin.com/in/umar-muneeb-766958375/" target="_blank">
         <img alt="LinkedIN"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
