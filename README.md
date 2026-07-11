@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Umar Muneeb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <b>Full Stack Developer & AI Engineer</b> · Air University, Islamabad · Graduating 2026
+  <b>Full Stack Developer & AI Engineer</b>
 </p>
 
 ## 👯 Connect with me
